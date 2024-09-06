@@ -4,7 +4,8 @@ Ariel is an Undergraduate student at Arizona State University studying Graphic I
 Do they have any idea what their focus is as of this momement? No, not really. 
 
 They love watching shows, movies, as well as being existential and enjoying good music! They also love consuming media in all forms! 
-nom nom!
+
+**nom nom!**
 
 ![Jumping yippie cat](https://media.tenor.com/QWSXGYQHn4oAAAAM/yippee-iluvmybf.gif)
 
