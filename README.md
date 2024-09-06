@@ -1,4 +1,4 @@
-## HeLoo EVERYONE!
+## hello! :0
 
 Ariel is an Undergraduate student at Arizona State University studying Graphic Information Technology. I am hoping to graduate by Spring 2026! 
 Do they have any idea what their focus is as of this momement? No, not really. 
