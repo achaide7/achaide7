@@ -1,6 +1,6 @@
 ## HeLoo EVERYONE!
 
-Ariel is an Undergraduate student at Arizona State University studying Graphic Information Technology. Do they have any idea what their focus is as of this momement? No, not really. They love watching shows, movies, as well as being existential and enjoying good music! Media consumer!
+<p style="font-family:verdana">Ariel is an Undergraduate student at Arizona State University studying Graphic Information Technology. Do they have any idea what their focus is as of this momement? No, not really. They love watching shows, movies, as well as being existential and enjoying good music! Media consumer!</p>
 
 <!--
 **achaide7/achaide7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
